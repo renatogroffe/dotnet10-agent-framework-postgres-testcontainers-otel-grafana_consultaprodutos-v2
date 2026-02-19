@@ -8,3 +8,7 @@ Aplicação em execução:
 Visualizando logs do Grafana Loki:
 
 ![Grafana Loki](img/loki-01.png)
+
+Métricas enviadas para o Prometheus:
+
+![Prometheus](img/prometheus-01.png)
