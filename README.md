@@ -4,3 +4,7 @@ Exemplo em .NET 10 de Console Application que faz uso do projeto Microsoft Agent
 Aplicação em execução:
 
 ![Console App em execução](img/console-01.png)
+
+Visualizando logs do Grafana Loki:
+
+![Grafana Loki](img/loki-01.png)
