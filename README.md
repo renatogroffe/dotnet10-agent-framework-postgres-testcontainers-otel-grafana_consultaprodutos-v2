@@ -12,3 +12,7 @@ Visualizando logs do Grafana Loki:
 Métricas enviadas para o Prometheus:
 
 ![Prometheus](img/prometheus-01.png)
+
+Traces no Grafana Tempo:
+
+![Prometheus](img/tempo-01.png)
